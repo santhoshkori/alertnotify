@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.maincontainer {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+  margin: 0px;
+}
+.reacticon {
+  align-self: flex-start;
+}
+.crossicon {
+  align-self: center;
+}
+.descriptionconttainer {
+  align-self: flex-start;
+  padding: 0px;
+  margin: 0px;
+}
+.headingstty {
+  margin: 0px;
+}
+.iconsty {
+  height: 50px;
+  width: 50px;
+}

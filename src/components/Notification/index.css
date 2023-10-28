@@ -1,0 +1,65 @@
+/* Write your CSS here */
+.Success {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  color: #2dca73;
+  margin-bottom: 7px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #64748b;
+  border-radius: 20px;
+}
+.Error {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  color: #ff0b37;
+  margin-bottom: 7px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #64748b;
+  border-radius: 20px;
+}
+.Warning {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  color: #ffb800;
+  margin-bottom: 7px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #64748b;
+  border-radius: 20px;
+}
+.Info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  color: #0f81e0;
+  margin-bottom: 7px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #64748b;
+  border-radius: 20px;
+}
+
+.paracontiner {
+  color: black;
+}
+.notificatincaontainer-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 600px;
+  color: #ff0b37;
+  margin-bottom: 7px;
+  padding: 30px;
+  border-style: solid;
+  border-color: #64748b;
+  border-radius: 20px;
+}
